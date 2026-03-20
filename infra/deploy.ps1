@@ -1,7 +1,7 @@
 Write-Host "Deploying the Azure resources..."
 
 # --- Parameters (match deploy.sh) ---
-$RG_LOCATION = "westus"
+$RG_LOCATION = "eastus"
 $AI_PROJECT_FRIENDLY_NAME = "Zava Agent Service Workshop"
 $RESOURCE_PREFIX = "zava-agent-wks"
 # unique suffix: lowercase letters + digits, 4 chars (similar to deploy.sh)

@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "location": {
-      "value": "westus"
+      "value": "eastus"
     },
     "aiProjectFriendlyName": {
       "value": "Zava Agent Service Workshop"
@@ -16,7 +16,7 @@
         {
           "name": "gpt-4o",
           "format": "OpenAI",
-          "version": "2024-07-18",
+          "version": "2024-11-20",
           "skuName": "GlobalStandard",
           "capacity": 120
         },
